@@ -28,6 +28,6 @@ latest_posts:
 ---
 I am Shiyi Tan. This website is a personal archive of my research, learning notes, photography, and everyday observations.
 
-I use this space to document the research I have worked on, the questions I am still exploring, and the small things I notice in everyday life. It is both a CV and something more personal: a record of work, learning, and living.
+I use this space to document the research I have worked on, the things I am still learning, and the small things I notice in everyday life. It is both a CV and something more personal: a record of work, learning, and living.
 
 Beyond academic work, I enjoy photography and baking very much. The photos shared here are not necessarily masterpieces, but they are fragments of how I see the world.
