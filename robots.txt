@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ShiyiTan.github.io/Mywebsite/sitemap.xml
+Sitemap: https://ShiyiTan.github.io/MyWebsite/sitemap.xml
